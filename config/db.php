@@ -2,7 +2,7 @@
 
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'pgsql:host=pedago.univ-avignon.fr;dbname=etd',
+    'dsn' => 'pgsql:host=pedago01c.univ-avignon.fr;dbname=etd',
     'username' => 'uapv2500228',
     'password' => 'ZfA8JC',
     'charset' => 'utf8',
